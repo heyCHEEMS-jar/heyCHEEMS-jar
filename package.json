@@ -1,0 +1,25 @@
+{
+  "name": "heycheems-jar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "heyCHEEMS 的个人主页，包含子站点导航与 GitHub 项目展示。",
+  "homepage": "https://heycheems.top",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyCHEEMS-jar/heyCHEEMS-jar.git"
+  },
+  "author": "heyCHEEMS (https://heycheems.top)",
+  "license": "ISC",
+  "keywords": [
+    "personal-website",
+    "portfolio",
+    "static-site",
+    "vanilla-javascript",
+    "github-profile"
+  ],
+  "scripts": {
+    "dev": "npx --yes serve . -l 8000",
+    "start": "npx --yes serve . -l 8000"
+  },
+  "packageManager": "pnpm@12.14.0"
+}
