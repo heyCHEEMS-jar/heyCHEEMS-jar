@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffefd" />
+      <stop offset="1" stop-color="#fff7f4" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#efb8b4" />
+      <stop offset=".5" stop-color="#f6d3ce" />
+      <stop offset="1" stop-color="#fbe8e4" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="100" fill="url(#background)" />
+  <path d="M0 50 C190 12 335 82 525 48 C715 14 850 80 1030 50 C1095 39 1155 39 1200 52 V100 H0 Z" fill="url(#wave)" opacity=".82">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0 50 C190 12 335 82 525 48 C715 14 850 80 1030 50 C1095 39 1155 39 1200 52 V100 H0 Z;
+              M0 48 C175 84 345 14 530 52 C705 88 865 16 1035 49 C1100 62 1158 62 1200 48 V100 H0 Z;
+              M0 50 C190 12 335 82 525 48 C715 14 850 80 1030 50 C1095 39 1155 39 1200 52 V100 H0 Z" />
+  </path>
+</svg>

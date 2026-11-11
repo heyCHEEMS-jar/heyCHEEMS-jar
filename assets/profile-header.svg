@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">CHEEMS</title>
+  <desc id="desc">heycheems.top</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffefd" />
+      <stop offset="1" stop-color="#fff7f4" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#efb8b4" />
+      <stop offset=".5" stop-color="#f6d3ce" />
+      <stop offset="1" stop-color="#fbe8e4" />
+    </linearGradient>
+    <linearGradient id="text" x1="430" y1="0" x2="770" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a84f61" />
+      <stop offset=".5" stop-color="#c96878" />
+      <stop offset="1" stop-color="#df8792" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#background)" />
+
+  <path d="M0 145 C180 105 300 195 480 152 C670 106 790 186 960 148 C1060 126 1135 130 1200 148 V260 H0 Z" fill="url(#wave)" opacity=".55">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 145 C180 105 300 195 480 152 C670 106 790 186 960 148 C1060 126 1135 130 1200 148 V260 H0 Z;
+              M0 156 C160 190 315 112 490 158 C660 202 810 116 970 154 C1065 177 1140 170 1200 145 V260 H0 Z;
+              M0 145 C180 105 300 195 480 152 C670 106 790 186 960 148 C1060 126 1135 130 1200 148 V260 H0 Z" />
+  </path>
+
+  <path d="M0 188 C180 224 320 145 505 188 C680 228 830 155 1010 190 C1085 205 1148 204 1200 184 V260 H0 Z" fill="url(#wave)" opacity=".88">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="M0 188 C180 224 320 145 505 188 C680 228 830 155 1010 190 C1085 205 1148 204 1200 184 V260 H0 Z;
+              M0 180 C170 145 330 224 515 181 C690 140 845 218 1015 180 C1090 163 1152 164 1200 185 V260 H0 Z;
+              M0 188 C180 224 320 145 505 188 C680 228 830 155 1010 190 C1085 205 1148 204 1200 184 V260 H0 Z" />
+  </path>
+
+  <text x="600" y="102" text-anchor="middle" fill="url(#text)" stroke="#fffefd" stroke-width="5"
+    paint-order="stroke fill" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="6">
+    CHEEMS
+    <animate attributeName="opacity" values="0;1" dur=".8s" fill="freeze" />
+  </text>
+  <text x="600" y="140" text-anchor="middle" fill="#9d6870"
+    font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="20" letter-spacing="2">
+    heycheems.top
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze" />
+  </text>
+</svg>
