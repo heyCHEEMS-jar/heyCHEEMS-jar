@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://heycheems.top">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,45:DC2626,100:FB7185&height=210&section=header&text=CHEEMS&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=heycheems.top&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="heyCHEEMS" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FF8FA3,100:FFC2D1&height=210&section=header&text=CHEEMS&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=heycheems.top&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="heyCHEEMS" />
   </a>
 
   <a href="https://heycheems.top">
@@ -24,6 +24,6 @@
   </p>
 
   <a href="https://heycheems.top">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,45:DC2626,100:FB7185&height=90&section=footer" width="100%" alt="footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FF8FA3,100:FFC2D1&height=90&section=footer" width="100%" alt="footer" />
   </a>
 </div>
