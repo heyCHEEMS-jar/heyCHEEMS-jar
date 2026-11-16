@@ -5,20 +5,11 @@
     <a href="https://github.com/heyCHEEMS-jar"><img src="https://hits.sh/github.com/heyCHEEMS-jar/heyCHEEMS-jar.svg?style=flat-square&amp;label=%23&amp;color=8B5CF6&amp;labelColor=353940" alt="Visitor Counter" /></a>
   </p>
 
-  <p>
-    <a href="https://gitroll.io/profile/u14Xw2x4nevRioJsZrzLRhJvY6l42" target="_blank" rel="noopener noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://gitroll.io/api/badges/profiles/v1/u14Xw2x4nevRioJsZrzLRhJvY6l42?theme=dark" />
-        <img src="https://gitroll.io/api/badges/profiles/v1/u14Xw2x4nevRioJsZrzLRhJvY6l42?theme=light" alt="GitRoll Profile Badge" width="640" />
-      </picture>
-    </a>
-  </p>
-
-  <p>
+<p>
     <a href="https://github.com/heyCHEEMS-jar">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=heyCHEEMS-jar&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark" />
-        <img src="https://github-readme-stats.shion.dev/api?username=heyCHEEMS-jar&amp;show_icons=true&amp;count_private=true" alt="GitHub Stats" width="640" />
+        <img src="https://github-readme-stats.shion.dev/api?username=heyCHEEMS-jar&amp;show_icons=true&amp;count_private=true" alt="GitHub Stats" width="560" />
       </picture>
     </a>
   </p>
@@ -27,7 +18,16 @@
     <a href="https://ghfind.com/u/heyCHEEMS-jar?ref=badge">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/heyCHEEMS-jar?theme=dark&amp;lang=en" />
-        <img src="https://ghfind.com/api/card/mini/heycheems-jar?theme=dark&v=1794810007319" width="640" />
+        <img src="https://ghfind.com/api/card/mini/heycheems-jar?theme=dark&v=1794810007319" width="560" />
+      </picture>
+    </a>
+  </p>
+
+<p>
+    <a href="https://gitroll.io/profile/u14Xw2x4nevRioJsZrzLRhJvY6l42" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://gitroll.io/api/badges/profiles/v1/u14Xw2x4nevRioJsZrzLRhJvY6l42?theme=dark" />
+        <img src="https://gitroll.io/api/badges/profiles/v1/u14Xw2x4nevRioJsZrzLRhJvY6l42?theme=light" alt="GitRoll Profile Badge" width="560" />
       </picture>
     </a>
   </p>
