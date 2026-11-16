@@ -1,29 +1,52 @@
 <div align="center">
-  <a href="https://heycheems.top">
-    <img src="./assets/profile-header.svg" width="100%" alt="heyCHEEMS" />
-  </a>
 
-  <a href="https://heycheems.top">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=20&duration=2800&pause=1100&color=FF6B6B&center=true&vCenter=true&width=520&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF+CHEEMS%E3%80%82;EL+PSY+CONGROO." alt="你好，这里是 CHEEMS。 / EL PSY CONGROO." />
-  </a>
-
-  <br />
-
-  <img src="./assets/cheems-run.svg" width="88%" alt="CHEEMS running animation" />
-
-  <p>
-    <a href="https://heycheems.top"><img src="https://img.shields.io/badge/主页-heycheems.top-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="个人主页" /></a>
-    &nbsp;
-    <a href="https://github.com/heyCHEEMS-jar"><img src="https://img.shields.io/badge/GitHub-heyCHEEMS--jar-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p align="center">
+    Welcome, visitor
+    <a href="https://github.com/heyCHEEMS-jar"><img src="https://hits.sh/github.com/heyCHEEMS-jar/heyCHEEMS-jar.svg?style=flat-square&amp;label=%23&amp;color=8B5CF6&amp;labelColor=353940" alt="Visitor Counter" /></a>!
   </p>
 
   <p>
-    <a href="https://space.bilibili.com/305721009"><img src="https://img.shields.io/badge/bilibili-关注我-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
+    <a href="https://gitroll.io/profile/u14Xw2x4nevRioJsZrzLRhJvY6l42" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://gitroll.io/api/badges/profiles/v1/u14Xw2x4nevRioJsZrzLRhJvY6l42?theme=dark" />
+        <img src="https://gitroll.io/api/badges/profiles/v1/u14Xw2x4nevRioJsZrzLRhJvY6l42?theme=light" alt="GitRoll Profile Badge" width="440" />
+      </picture>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/heyCHEEMS-jar">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=heyCHEEMS-jar&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark" />
+        <img src="https://github-readme-stats.shion.dev/api?username=heyCHEEMS-jar&amp;show_icons=true&amp;count_private=true" alt="GitHub Stats" width="440" />
+      </picture>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://ghfind.com/u/heyCHEEMS-jar?ref=badge">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/heyCHEEMS-jar?theme=dark&amp;lang=en" />
+        <img src="https://ghfind.com/api/card/mini/heycheems-jar?theme=dark&v=1794810007319" width="440" />
+      </picture>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://heycheems.top"><img src="https://img.shields.io/badge/Home-heycheems.top-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Home" /></a>
+  </p>
+
+  <p>
+    <a href="https://space.bilibili.com/305721009"><img src="https://img.shields.io/badge/bilibili-CHEEMS_jar-00A1D6?style=for-the-badge&logo=bilibili&logoColor=FF6B6B" alt="bilibili" /></a>
     &nbsp;
     <a href="mailto:devrao@163.com"><img src="https://img.shields.io/badge/Email-devrao%40163.com-4D96FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   </p>
 
-  <a href="https://heycheems.top">
-    <img src="./assets/profile-footer.svg" width="100%" alt="footer" />
-  </a>
 </div>
+
+## 💻 My Laptop Specs
+
+[![CPU: Intel Core i7-14650HX](https://img.shields.io/badge/Intel_Core_i7--14650HX-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/details/processors/core.html)
+[![GPU: NVIDIA GeForce RTX 4060 Laptop GPU](https://img.shields.io/badge/GeForce_RTX_4060_Laptop_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/laptops/40-series/)
+![Memory: 32GB DDR5 5600MHz](https://img.shields.io/badge/Memory-32GB_DDR5_5600MHz-353940?style=for-the-badge)
+[![Network: Intel Wi-Fi 6E AX211 160MHz](https://img.shields.io/badge/Intel_Wi--Fi_6E_AX211_160MHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/details/wireless/wi-fi-6e.html)
