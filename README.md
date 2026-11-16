@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    Welcome, visitor <br>
+    **Hello, visitor** <br>
     <a href="https://github.com/heyCHEEMS-jar"><img src="https://hits.sh/github.com/heyCHEEMS-jar/heyCHEEMS-jar.svg?style=flat-square&amp;label=%23&amp;color=8B5CF6&amp;labelColor=353940" alt="Visitor Counter" /></a>
   </p>
 
