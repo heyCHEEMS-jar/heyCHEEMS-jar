@@ -1,9 +1,6 @@
 <div align="center">
 
-  <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-    Welcome, visitor
-    <a href="https://github.com/heyCHEEMS-jar"><img src="https://hits.sh/github.com/heyCHEEMS-jar/heyCHEEMS-jar.svg?style=flat-square&amp;label=%23&amp;color=8B5CF6&amp;labelColor=353940" alt="Visitor Counter" /></a>
-  </div>
+  <div style="display: flex; justify-content: center; align-items: center; height: 200px; gap: 8px;">    <span style="line-height: 1;">Welcome, visitor</span>    <a href="https://github.com/heyCHEEMS-jar"><img src="https://hits.sh/github.com/heyCHEEMS-jar/heyCHEEMS-jar.svg?style=flat-square&amp;label=%23&amp;color=8B5CF6&amp;labelColor=353940" alt="Visitor Counter" /></a>  </div>
 
   <p>
     <a href="https://gitroll.io/profile/u14Xw2x4nevRioJsZrzLRhJvY6l42" target="_blank" rel="noopener noreferrer">
