@@ -555,7 +555,6 @@ svg {
   transform: translateY(-1px);
 }
 
-
 .about-sites {
   min-width: 0;
 }
@@ -858,7 +857,6 @@ html.js [data-reveal].is-visible {
   .closing-line {
     margin-top: 54px;
   }
-
 }
 
 @media (max-width: 640px) {
@@ -906,7 +904,6 @@ html.js [data-reveal].is-visible {
   .content-section {
     padding: 76px 20px;
   }
-
 
   .footer-inner {
     align-items: flex-start;
